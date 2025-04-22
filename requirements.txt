@@ -1,0 +1,10 @@
+Django>=5.2
+Pillow
+celery~=5.5.1
+django-celery-results
+kombu
+amqp
+flower>=2.0.0
+braintree~=4.34.0
+dotenv~=0.9.9
+python-dotenv~=1.1.0
